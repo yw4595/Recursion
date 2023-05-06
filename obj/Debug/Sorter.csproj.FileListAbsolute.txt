@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\Sorter\bin\Debug\Sorter.exe.config
+C:\Users\Wiz\Desktop\Sorter\bin\Debug\Sorter.exe
+C:\Users\Wiz\Desktop\Sorter\bin\Debug\Sorter.pdb
+C:\Users\Wiz\Desktop\Sorter\obj\Debug\Sorter.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\Sorter\obj\Debug\Sorter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\Sorter\obj\Debug\Sorter.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\Sorter\obj\Debug\Sorter.exe
+C:\Users\Wiz\Desktop\Sorter\obj\Debug\Sorter.pdb
